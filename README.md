@@ -1,7 +1,7 @@
 GraphAware Neo4j Warmup - RETIRED
 =================================
 
-Warmup Has Been Retired
+Warmup Has Been Retir
 -----------------------
 
 As of July 5th 2016, this module is retiring. This means it will no longer be maintained and released together with
