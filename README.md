@@ -1,8 +1,7 @@
 GraphAware Neo4j Warmup - RETIRED
 =================================
 
-Warmup Has Been Retired
------------------------
+## Warmup Has Been Retired
 
 As of July 5th 2016, this module is retiring. This means it will no longer be maintained and released together with
 new versions of the GraphAware Framework and Neo4j. The last compatible Neo4j version is 3.0.3.
