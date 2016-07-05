@@ -1,4 +1,4 @@
-GraphAware Neo4j Warmup - RETIRED
+GraphAware Neo4j Warmup - RETIR
 =================================
 
 Warmup Has Been Retired
