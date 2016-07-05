@@ -12,7 +12,7 @@ using Warmup in production, to the best of our knowledge.
 
 This repository will remain public. Please <a href="http://graphaware.com/contact/">get in touch</a> if you've been using Warmup and APOC isn't good enough for you.
 
-Introduction
+Introducti
 ------------
 
 [![Build Status](https://travis-ci.org/graphaware/neo4j-warmup.png)](https://travis-ci.org/graphaware/neo4j-warmup) | <a href="http://graphaware.com/downloads/" target="_blank">Downloads</a> | Latest Release: 3.0.3.39.5
